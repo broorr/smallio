@@ -1,4 +1,4 @@
-package channel
+package pool
 
 // BytePool 字节缓冲池
 type BytePool struct {
